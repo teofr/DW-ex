@@ -2,6 +2,8 @@
 
 import * from MyModule
 
+output application/json
+
 ---
 
 {
